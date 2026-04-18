@@ -12,8 +12,8 @@
 ### Phase 2: Personalização (TODO)
 
 #### 2.1 Dados da Empresa
-- [ ] Substituir `5585999999999` pelo seu WhatsApp real
-- [ ] Atualizar `contato@xispimtec.com.br` com seu e-mail
+- [ ] Validar número oficial da Xispimtec (`5547992505922`)
+- [ ] Validar e-mail oficial da Xispimtec (`grupoxispim@gmail.com`)
 - [ ] Adicionar endereço real (se necessário)
 - [ ] Atualizar redes sociais no rodapé
 
@@ -75,7 +75,7 @@
 **Arquivo:** `index.html`
 
 ```html
-<!-- Procure por e substitua 5585999999999 -->
+<!-- Procure por e substitua 5547992505922 -->
 
 <!-- Links WhatsApp -->
 href="https://wa.me/SEU_NUMERO?text=..."
@@ -85,15 +85,15 @@ href="https://wa.me/SEU_NUMERO?text=..."
 ```
 
 **Formato correto:**
-- Com +55 e DDD: `+5585999999999`
-- Ou sem +: `5585999999999`
+- Com +55 e DDD: `+5547992505922`
+- Ou sem +: `5547992505922`
 
 ### 2. E-mail de Contato
 
 **Arquivo:** `index.html`
 
 ```html
-<!-- Procure por contato@xispimtec.com.br -->
+<!-- Procure por grupoxispim@gmail.com -->
 <a href="mailto:SEU_EMAIL@..."</a>
 ```
 
@@ -346,10 +346,10 @@ Antes de ir para produção:
 - Como hospeda? → Veja "Passos para Hospedar"
 
 **Contacto:**
-- Email: contato@xispimtec.com.br
-- WhatsApp: (85) 9 9999-9999
+- Email: grupoxispim@gmail.com
+- WhatsApp: (47) 9 9250-5922
 
 ---
 
-**Versão 1.0 - Abril 2024**
+**Versão 1.1 - Abril 2026**
 **Desenvolvido para maximizar conversões e gerar resultados reais**

@@ -6,8 +6,8 @@
 
 ### Passo 1: Personalizar Dados
 Abra `index.html` e substitua:
-- `5585999999999` → Seu WhatsApp
-- `contato@xispimtec.com.br` → Seu E-mail
+- `5547992505922` → WhatsApp da Xispimtec
+- `grupoxispim@gmail.com` → E-mail da Xispimtec
 
 ### Passo 2: Adicionar Logo
 Coloque sua logo em `imagens/logo.jpg`

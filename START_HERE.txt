@@ -97,8 +97,8 @@ ASSETS:
 
 PASSO 1: PERSONALIZAR (5 minutos)
    1. Abra index.html com editor de texto
-   2. Procure por "5585999999999" → Seu WhatsApp
-   3. Procure por "contato@xispimtec.com.br" → Seu e-mail
+   2. Procure por "5547992505922" → WhatsApp da Xispimtec
+   3. Procure por "grupoxispim@gmail.com" → E-mail da Xispimtec
    4. Salve (Ctrl+S)
 
 PASSO 2: TESTAR (5 minutos)
@@ -248,7 +248,7 @@ DEMO: GITHUB PAGES
 
 1. TELEFONE WHATSAPP
    → Formato: com +55 ou 55
-   → Exemplo: 5585999999999
+   → Exemplo: 5547992505922
    → Sempre 11 dígitos (2 DDD + 9)
 
 2. PERSONALIZAR PORTFÓLIO

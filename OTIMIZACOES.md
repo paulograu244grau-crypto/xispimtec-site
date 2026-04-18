@@ -42,8 +42,8 @@ Adicione este código no `<head>` do HTML:
   "name": "Xispimtec",
   "image": "https://xispimtec.com.br/imagens/logo.jpg",
   "description": "Desenvolvimento de sites profissionais e soluções digitais",
-  "telephone": "+5585999999999",
-  "email": "contato@xispimtec.com.br",
+  "telephone": "+5547992505922",
+  "email": "grupoxispim@gmail.com",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Rua Exemplo, 123",

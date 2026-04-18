@@ -169,8 +169,8 @@ Pequenas Telas (até 600px):
 
 1. EDITAR INFORMAÇÕES
    Abra index.html e procure por:
-   • "5585999999999" → Substitua pelo seu WhatsApp
-   • "contato@xispimtec.com.br" → Seu e-mail
+   • "5547992505922" → Substitua pelo seu WhatsApp
+   • "grupoxispim@gmail.com" → Seu e-mail
    • Salve com Ctrl+S
 
 2. ADICIONAR LOGO

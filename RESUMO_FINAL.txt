@@ -103,8 +103,8 @@ SEO
 
 PASSO 1: Personalizar (5 minutos)
    1. Abra index.html com editor de texto
-   2. Altere "5585999999999" → Seu WhatsApp
-   3. Altere "contato@xispimtec.com.br" → Seu e-mail
+   2. Altere "5547992505922" → Seu WhatsApp
+   3. Altere "grupoxispim@gmail.com" → Seu e-mail
    4. Salve (Ctrl+S)
 
 PASSO 2: Testar (5 minutos)

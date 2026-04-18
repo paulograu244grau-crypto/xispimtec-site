@@ -79,7 +79,7 @@ site-xispimtec/
 Atualize os seguintes dados:
 
 **Em `index.html`:**
-- Número de WhatsApp (procure por `5585999999999`)
+- Número de WhatsApp (procure por `5547992505922`)
 - E-mail de contato
 - Links de redes sociais
 
@@ -167,8 +167,8 @@ Atualize os seguintes dados:
 ## 📞 Suporte
 
 Para dúvidas ou melhorias:
-- Email: contato@xispimtec.com.br
-- WhatsApp: (85) 9 9999-9999
+- Email: grupoxispim@gmail.com
+- WhatsApp: (47) 9 9250-5922
 
 ## 📄 Licença
 
@@ -185,4 +185,4 @@ Este projeto é propriedade da **Xispimtec**. Uso exclusivamente pessoal ou come
 
 **Desenvolvido com ❤️ para impulsionar seu negócio**
 
-Versão 1.0 - Abril 2024
+Versão 1.1 - Abril 2026
